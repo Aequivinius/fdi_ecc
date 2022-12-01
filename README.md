@@ -1,0 +1,1 @@
+This repository contains some coding exercises in German developed for a teaching course at ETH. Their goal is to allow the student with modest programming skill to implement a simple Hamming encoding.
